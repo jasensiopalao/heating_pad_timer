@@ -16,5 +16,5 @@ With the new controller the advantages are:
 
 # Schematics
 
-![](schematics/heating_pad_protection.svg)
+![](schematics/heating_pad_timer.svg)
 
